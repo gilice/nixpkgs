@@ -289,20 +289,20 @@
       "artifacts.zip" = "sha256-6BSQ2zodrQmZKkHeaGVVT4D7jNekhwNOul5C6qwLbO8=";
     };
     darwin-x64 = {
-      "FlutterEmbedder.framework.zip" = "sha256-u+t2SVr0u3Bicm9UNsu9gY/YdP7IgMXdlCnAiqR9RsM=";
-      "FlutterMacOS.framework.zip" = "sha256-oOWdDCeI1xyaNvW8me8HogVbr0aWOpw/nUXcU9x3m5M=";
+      "FlutterEmbedder.framework.zip" = "sha256-4jYk+aYjOS/CZajS1oVBexg2+C9fy0OmfaI6i3rrhXo=";
+      "FlutterMacOS.framework.zip" = "sha256-Im7DTFf1zXrG6n1OtM4Jixd992mS2r47GRnAa7/urNc=";
       "artifacts.zip" = "sha256-SdnPPnx4NOfOlJU1234977/cVRCa/5KTI/1kqCtTxG0=";
       "font-subset.zip" = "sha256-F7qt7X0FNXODb3rvTkXacK3wG/aEVn+ny8DHFL3gEkI=";
       "gen_snapshot.zip" = "sha256-czdCi1cPdD/nu0LJIsgUj42O6D5x5xTKfM8l/UiKZqw=";
     };
     darwin-x64-profile = {
-      "FlutterMacOS.framework.zip" = "sha256-UxiV+PuAb8hnPFnRMjVsWZKyUVlnLK8rxcCSxWUrciY=";
+      "FlutterMacOS.framework.zip" = "sha256-gdfoq6jdHFDb2JXCf45qJ2ekTildUptLb/k0XuHYuh8=";
       "artifacts.zip" = "sha256-aEoenQh0Q8xuLU6OeFND3GBbOvhMNsovbbFQwQfudm0=";
       "gen_snapshot.zip" = "sha256-tY3qmpdF7MP4iEfqgouzLehr901H3QTLxeV28RoLPDY=";
     };
     darwin-x64-release = {
       "FlutterMacOS.dSYM.zip" = "sha256-dNlx9PsXeJeV6FMPOliRyuc5p58DeEmXus2zP1dOqPs=";
-      "FlutterMacOS.framework.zip" = "sha256-coH1pH4/+h9pF6FCmhNL2sspBE1bg1bBFxutHhz4RGQ=";
+      "FlutterMacOS.framework.zip" = "sha256-ibmcuVjd3kswmUvXzZi8vl5uNEbnWvMAwzWYxs8i1zw=";
       "artifacts.zip" = "sha256-KCXwR/ZZK1jyLQaIAsb+wAz4awVU1QozydIQt10M30A=";
       "gen_snapshot.zip" = "sha256-hZT+IMHbvSTjk2WcNvfPl+vdXZ2vbB/MjiYP1Q+cKD8=";
     };
@@ -316,7 +316,7 @@
       "artifacts.zip" = "sha256-XZ4AFdG60gUx2xv3qZdk8Hh/0ZuIeJXeBxBoWlmhP4I=";
     };
     ios-release = {
-      "Flutter.dSYM.zip" = "sha256-sQZiqNa73kfTt0k0TuZud6xKuUCernlQiKVy9J7BKtw=";
+      "Flutter.dSYM.zip" = "sha256-QWCVU518mUHDXDdUm58XfS1TWYNkXI8LnfOIZ0PYLjs=";
       "artifacts.zip" = "sha256-tFmIpEogaqCcx4ftVRah3Bw3CeB0dTku0xUMvUVfR00=";
     };
     linux-arm64 = {
